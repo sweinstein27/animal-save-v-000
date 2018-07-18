@@ -18,11 +18,10 @@ html {
   right: 0;
 }
 
-@media only and (max-width: 160px){
+@media only and (max-width: 1060px){
   #dolphin{
     position: absolute;
     top:200px;
     transform: rotate(0.5turn);
   }
 }
-
