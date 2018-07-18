@@ -8,7 +8,7 @@ html {
   right: 120px;
 }
 
-@media only (max-width: 1170px) and (min-width: 406px) {
+@media only screen (max-width: 1170px)  {
   #monkey {
     position: absolute;
     top: 50px;
