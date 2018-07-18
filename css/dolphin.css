@@ -21,7 +21,7 @@ html {
 @media only and (max-width: 1060px){
   #dolphin {
     position: absolute;
-    top:4000px;
+    top:400px;
     transform: rotate(0.5turn);
   }
 }
